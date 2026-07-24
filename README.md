@@ -166,7 +166,7 @@ Customer-Data-Analysis-for-Business-Insights/
 Clone the repository
 
 ```bash
-git clone https://github.com/knoxwave/Customer-Data-Analysis-for-Business-Insights.git
+git clone https://github.com/knoxwave/Customer-Data-Analysis-for-Business-Insights-Python-Pandas.git
 ```
 
 Install dependencies
@@ -226,6 +226,7 @@ The repository includes:
 **Ajit Kumar**
 
 Data Analyst | Python | SQL | Power BI | Excel
+Portfolio : https://ajit.msgjob.in/
 
 GitHub: https://github.com/knoxwave
 
