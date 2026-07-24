@@ -226,6 +226,7 @@ The repository includes:
 **Ajit Kumar**
 
 Data Analyst | Python | SQL | Power BI | Excel
+
 Portfolio : https://ajit.msgjob.in/
 
 GitHub: https://github.com/knoxwave
